@@ -1,5 +1,6 @@
 import 'bootstrap/dist/css/bootstrap.css';
 import 'bootstrap/dist/js/bootstrap.js';
+import './css/navbar.css'
 import Wishlist from './wishlist';
 import Filter from './filter';
 import preferenceLogo from './icons/preferences.png';
